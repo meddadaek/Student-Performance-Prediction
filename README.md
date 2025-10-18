@@ -9,14 +9,6 @@ It uses both **Linear Regression** and **Random Forest Regressor** to compare mo
 - matplotlib & seaborn — Data visualization  
 - scikit-learn — Machine learning models & metrics
 
-## 📁 Project Structure
-.
-├── Student data 4.csv # Dataset
-├── main.py # Main Python script
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
-
-
 
 ## 🧠 Features
 - ✅ Cleans and preprocesses data (handles duplicate columns, encodes gender, removes unnecessary columns)  
