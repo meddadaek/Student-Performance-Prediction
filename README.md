@@ -1,4 +1,4 @@
-#📊 Student Performance Prediction
+# 📊 Student Performance Prediction
 
 This project is a **machine learning pipeline** for predicting student performance based on various features such as gender, parent income, and other academic data.  
 It uses both **Linear Regression** and **Random Forest Regressor** to compare models and visualize feature importance.
